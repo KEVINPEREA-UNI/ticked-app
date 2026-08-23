@@ -1,0 +1,27 @@
+[
+  {
+    "id": "evt-001",
+    "nombre": "Concierto de Rock 2026",
+    "descripcion": "Vive una noche inolvidable con las mejores bandas de rock nacionales e internacionales.",
+    "ubicacion": { "nombreLugar": "Estadio Nacional", "ciudad": "Valledupar", "aforoMaximo": 2000 },
+    "fechaEvento": "2026-08-14T19:00:00Z",
+    "estado": { "tipo": "publicado", "fechaPublicacion": "2026-06-01T10:00:00Z" },
+    "afiche": "https://ticked.co/img/concierto-rock.jpg"
+  },
+  {
+    "id": "evt-002",
+    "nombre": "Feria Tecnologica EXPOSOFTWARE XXII",
+    "descripcion": "Jornada de investigación con las mejores propuestas de software universitario.",
+    "ubicacion": { "nombreLugar": "Universidad Popular del Cesar", "ciudad": "Valledupar", "aforoMaximo": 500 },
+    "fechaEvento": "2026-09-05T08:00:00Z",
+    "estado": { "tipo": "borrador" }
+  },
+  {
+    "id": "evt-003",
+    "nombre": "Pilonera 2026",
+    "descripcion": "Festival cultural con musica vallenata en vivo.",
+    "ubicacion": { "nombreLugar": "Villa Corelca", "ciudad": "Valledupar", "aforoMaximo": 5000 },
+    "fechaEvento": "2026-04-29T18:00:00Z",
+    "estado": { "tipo": "cancelado", "motivo": "Condiciones climaticas adversas en la zona." }
+  }
+]
